@@ -1,1 +1,1 @@
-# slip-bot
+# reddit-bot
